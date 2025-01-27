@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulzz" alt="gokulzz" /></a> </p>
 
-- 🔭 I’m currently working on [eCommerce app](https://github.com/Gokulzz/eCommerceApp)
+- 🔭 I’m currently working on AI JobRecommendation Site(https://github.com/Gokulzz/AI_JobRecommendation)
 
 - 🌱 I’m currently learning **azure**
 
