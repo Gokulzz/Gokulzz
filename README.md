@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulzz" alt="gokulzz" /></a> </p>
 
-- 🔭 I’m currently working on Price Comparison App(https://www.scoutmydeal.com)
+- 🔭 I’m currently working on CustomerSupport AI Agent(https://github.com/Gokulzz/CustomerSupport-Agent)
 
-- 🌱 I’m currently learning **azure**
+- 🌱 I’m currently learning about agentic AI, RAG and distributed systems.
 
 - 📫 How to reach me **gokulkhatri2020@gmail.com**
 
