@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Khatri</h1>
-<h3 align="center">A passionate back end developer</h3>
+<h3 align="center"> Software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulzz" alt="gokulzz" /></a> </p>
 
